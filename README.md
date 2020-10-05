@@ -12,7 +12,7 @@ Runs the app in the development mode.
 
 Builds the app for production to the `build` folder.
 
-### deno run -A server.ts
+### `deno run -A server.ts`
 
 Deploy server using deno
 
